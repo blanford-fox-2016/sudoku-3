@@ -1,0 +1,19 @@
+{
+  "name": "sudoku-3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sudoku.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blanford-fox-2016/sudoku-3.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blanford-fox-2016/sudoku-3/issues"
+  },
+  "homepage": "https://github.com/blanford-fox-2016/sudoku-3#readme"
+}
